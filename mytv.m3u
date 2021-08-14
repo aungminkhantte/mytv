@@ -25,6 +25,12 @@ http://www.csasean.top/hls/89092060.m3u8
 http://www.csasean.top/hls/96349b08.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="SPORTS",BEIN SPORTS 3
 http://www.csasean.top/hls/81ac9808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="SPORTS",SKYNET SPORTS 6
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="SPORTS",SKYNET SPORTS HD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="SPORTS",PPTV HD
+https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 
 
 
